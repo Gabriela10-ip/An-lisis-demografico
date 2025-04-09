@@ -3,7 +3,7 @@ Este proyecto contiene un análisis de indicadores demográficos realizado en el
 
 ## 📌 Contenido
 
-- `indicadores_demograficos.R`:
+- indicadores_demograficos.R:
 - Script en R que calcula y grafica indicadores como:
   - Tasa de natalidad
   - Tasa de mortalidad
