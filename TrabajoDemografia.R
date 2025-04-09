@@ -8,6 +8,7 @@ library(readxl)
 library(readr)
 library(fs)
 
+
 rm(list = ls())
 #Subir la base de datos 
 library(readxl)
